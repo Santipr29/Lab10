@@ -1,0 +1,71 @@
+.series{
+    background-color: rgb(73, 73, 73);
+}
+
+.big img{
+    min-height: 250px;
+    min-width: 200px;
+    max-width: 200px;
+    max-height: 250px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.trend img{
+    margin-left: 20px;
+    min-height: 250px;
+    min-width: 200px;
+    max-width: 200px;
+    max-height: 250px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.rating{
+    margin-left: 10px;
+}
+
+.rating img{
+    min-height: 20px;
+    min-width: 20px;
+    max-width: 20px;
+    max-height: 20px;
+    margin-left: 2px;
+}
+
+.bigT{
+    color: white;
+    margin-left: 20px;
+    margin-bottom: -10px;
+}
+
+.series h4{
+    color: white;
+}
+
+.info{
+    display: flex;
+    flex-direction: row;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.info img{
+    border-radius: 20px;
+}
+
+#recomend{
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+}
+
+#trend{
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+}
+
